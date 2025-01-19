@@ -81,15 +81,13 @@ jupyter notebook
 1. Data Analysis:
    - Open `DataAnalysis.ipynb` to explore the dataset and visualizations
    - Contains comprehensive data exploration and statistical analysis
-     ![correleation](https://github.com/user-attachments/assets/ebc5c597-8d90-4ceb-81a7-aaec0e5f5540)
-![furnished](https://github.com/user-attachments/assets/343901b9-1dd4-4877-88e8-1507a6b3287f)
-
+![correleation](https://github.com/user-attachments/assets/36519364-1060-40ad-a65a-cd315bb224ea)
+![furnished](https://github.com/user-attachments/assets/00824446-8340-4850-8f54-a0d56f376dca)
 
 2. Model Training:
    - Open `RandomForest.ipynb` to see the model development process
-   - Includes data preprocessing, model training, and evaluation
-     ![Price](https://github.com/user-attachments/assets/def6fa2f-e2cc-4b4a-8256-59290c461688)
-
+   - Includes data preprocessing, model training, and evaluation 
+![Price](https://github.com/user-attachments/assets/6cd92008-7e99-4aeb-9db8-358f184783b1)
 
 3. Making Predictions:
    - Use the web interface to input house features
@@ -107,7 +105,6 @@ The project includes a user-friendly web interface that allows users to:
 - Input house features through a form
 - Get instant price predictions
 - Make multiple predictions easily
-
-![RandomForestPredictionPage](https://github.com/user-attachments/assets/f4ce04bf-967b-423c-8fa9-031787b4bb9a)
-![PredictionPage](https://github.com/user-attachments/assets/20b92411-e21d-466b-8ad2-9cd71d2dc2b9)
+![RandomForestPredictionPage](https://github.com/user-attachments/assets/04b37f65-3858-416a-8ce9-56b224f88c8b)
+![PredictionPage](https://github.com/user-attachments/assets/73f4b0c6-14b4-4ef7-8435-91bcbe045597)
 
